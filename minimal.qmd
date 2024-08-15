@@ -1,0 +1,13 @@
+---
+title: "Hello"
+format:
+  typst:
+    keep-typ: true
+    template-partials:
+      - typst-template.typ
+      - typst-show2.typ
+---
+
+# Is it me you are looking for
+
+I can see it in your eyes
